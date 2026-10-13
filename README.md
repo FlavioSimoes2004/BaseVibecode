@@ -1,1 +1,12 @@
 # BaseVibecode
+## MOTIVO
+Este repositório foi criado com o intuito de gerar um padrão de estrutura (design, segurança, etc) de projetos que a IA deve seguir quando for desenvolvendo o projeto.
+
+## SOLUÇÃO
+Um conjunto de skills para direcionar a IA ao caminho desejado.
+
+Lista de skills:
+1. [Graphify](https://github.com/Graphify-Labs/graphify)
+    - Para economizar tokens da IA
+1. [Swagger](https://app.mcpmarket.com/flaviohsb06/skills/api-documentation)
+    - Organizar e documentar APIs
