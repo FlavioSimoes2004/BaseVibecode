@@ -12,3 +12,7 @@ Lista de skills:
     - Organizar e documentar APIs
 1. [Frontend](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md)
     - Para um frontend e UI mais organizado
+1. [test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md)
+    - Para realizar e automatizar testes
+1. [web security](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill/blob/main/skills/09-web-security/SKILL.md)
+    - Para verificar e realizar testes de segurança na aplicação web
