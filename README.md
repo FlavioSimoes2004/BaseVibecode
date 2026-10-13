@@ -16,3 +16,7 @@ Lista de skills:
     - Para realizar e automatizar testes
 1. [web security](https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill/blob/main/skills/09-web-security/SKILL.md)
     - Para verificar e realizar testes de segurança na aplicação web
+1. [database-designer](https://github.com/suparno/claude-skills-sup/blob/main/engineering/database-designer/SKILL.md)
+    - Para criar e deixar o banco de dados organizado
+1. [project-structure]()
+    - Criada por mim para organizar os diretorios do projeto
