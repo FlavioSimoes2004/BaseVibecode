@@ -10,3 +10,5 @@ Lista de skills:
     - Para economizar tokens da IA
 1. [Swagger](https://app.mcpmarket.com/flaviohsb06/skills/api-documentation)
     - Organizar e documentar APIs
+1. [Frontend](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md)
+    - Para um frontend e UI mais organizado
